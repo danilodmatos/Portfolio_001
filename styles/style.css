@@ -137,5 +137,12 @@ body{
     .apresentacao__conteudo{
         width: auto;
     }
+
+    .apresentacao__imagem{
+        width: 50%;
+        height: 50%; /* Define a altura igual à largura */
+        border: 7px solid var(--cor-secundaria);
+        border-radius: 30px;
+    }
     
 }
